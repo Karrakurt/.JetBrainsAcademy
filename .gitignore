@@ -1,0 +1,6 @@
+*.lock
+*.bin
+*.class
+/Coffee Machine/Coffee Machine/task/build/tmp
+/Encryption-Decryption/Encryption-Decryption/task/build/tmp
+/Tic-Tac-Toe/Tic-Tac-Toe/task/build/tmp

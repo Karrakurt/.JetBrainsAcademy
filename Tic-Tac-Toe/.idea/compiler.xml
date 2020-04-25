@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Problems-Boxes_main" target="11" />
+      <module name="Problems-Boxes_test" target="11" />
+      <module name="Problems-Check_if_an_array_is_sorted_ascending_main" target="11" />
+      <module name="Problems-Check_if_an_array_is_sorted_ascending_test" target="11" />
+      <module name="Problems-Check_sudoku_main" target="11" />
+      <module name="Problems-Check_sudoku_test" target="11" />
+      <module name="Problems-Fix_the_program__1__main" target="11" />
+      <module name="Problems-Fix_the_program__1__test" target="11" />
+      <module name="Problems-Fix_the_program__2__main" target="11" />
+      <module name="Problems-Fix_the_program__2__test" target="11" />
+      <module name="Problems-Fix_the_program_main" target="11" />
+      <module name="Problems-Fix_the_program_test" target="11" />
+      <module name="Problems-Harry_Potter_main" target="11" />
+      <module name="Problems-Harry_Potter_test" target="11" />
+      <module name="Problems-In_a_box_main" target="11" />
+      <module name="Problems-In_a_box_test" target="11" />
+      <module name="Problems-Individual_taxes_main" target="11" />
+      <module name="Problems-Individual_taxes_test" target="11" />
+      <module name="Problems-Maximum_element_in_a_matrix_main" target="11" />
+      <module name="Problems-Maximum_element_in_a_matrix_test" target="11" />
+      <module name="Problems-Pretty_looking_pattern_main" target="11" />
+      <module name="Problems-Pretty_looking_pattern_test" target="11" />
+      <module name="Problems-Raise_to_the_power_main" target="11" />
+      <module name="Problems-Raise_to_the_power_test" target="11" />
+      <module name="Problems-The_longest_ascending_sequence_main" target="11" />
+      <module name="Problems-The_longest_ascending_sequence_test" target="11" />
+      <module name="Problems-The_minimum_value_of_an_array_main" target="11" />
+      <module name="Problems-The_minimum_value_of_an_array_test" target="11" />
+      <module name="Problems-The_sum_of_elements_main" target="11" />
+      <module name="Problems-The_sum_of_elements_test" target="11" />
+      <module name="Tic-Tac-Toe-task_main" target="11" />
+      <module name="Tic-Tac-Toe-task_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
