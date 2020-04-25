@@ -13,9 +13,9 @@
           <option name="friendPaths">
             <array>
               <option value="$MODULE_DIR$/../../../../Problems/Print  Hello" />
-              <option value=" Java!/build/classes/kotlin/main" />
-              <option value="$MODULE_DIR$/../../../../Problems/Print  Hello" />
               <option value=" Java!/build/classes/java/main" />
+              <option value="$MODULE_DIR$/../../../../Problems/Print  Hello" />
+              <option value=" Java!/build/classes/kotlin/main" />
             </array>
           </option>
           <option name="languageVersion" value="1.3" />
